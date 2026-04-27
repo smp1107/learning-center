@@ -11,3 +11,4 @@ const i18n = createI18n({
         es
     }
 });
+export default i18n;
